@@ -11,5 +11,9 @@ body{
 }
 .orange{
     padding-right: 340;
-    background-color: orange;
+    background-color: rgb(255, 123, 0);
+}
+.blue{
+    padding-bottom: 340;
+    background-color: rgb(28, 28, 250);
 }
